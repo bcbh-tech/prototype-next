@@ -21,7 +21,7 @@ const Header = () => {
                         <a href="/what-caused-your-accident/">
                             <div className="menu-wrapper-container">
                                 <div className="header-menu-item" id="what-caused-your-accident-menu-item">
-                                    What Caused Your Accident?
+                                    What Caused Your Accident
                                 </div>
                             </div>
                         </a>
